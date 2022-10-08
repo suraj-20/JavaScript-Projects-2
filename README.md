@@ -7,12 +7,14 @@
 -   toggle on click
 -   animation
 
+
 2. Toast Notification
 
 -   toast container floating
 -   toast design
 -   button
 -   click show random toast message
+
 
 3. Auto Write Text
 
@@ -21,6 +23,7 @@
 -   show text based on index
 -   increment index
 
+
 4. Popup / Modal
 
 -   button
@@ -28,6 +31,7 @@
 -   popup container
 -   popup with text
 -   close btn popup with click event
+
 
 5. Purple Heart Rain
 
@@ -38,11 +42,13 @@
 -   add it to body
 -   interval
 
+
 6. Background Changer
 
 -   button w/ click
 -   generate color
 -   change bg color on click
+
 
 7. Dark mode toggle
 
@@ -51,16 +57,8 @@
 -   toggle
 -   toggle event
 
-8. Carousel
 
--   3/4 images
--   carousel container
--   images container
--   images with fixed width and height
--   index
--   automatic switch index and update container transform property
-
-9. Sound Board
+8. Sound Board
 
 -   sounds (HAVE THESE READY SIR)
 -   array with names
@@ -68,7 +66,8 @@
 -   create buttons w/ text
 -   play sound on click
 
-10. Zoom effect
+
+9. Zoom effect
 
 -   image
 -   track mouse movement
